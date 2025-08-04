@@ -1,5 +1,5 @@
 # 💫 Обо мне:
-💫 Разработчик проекта SateSpace (Minecraft).<br>⚡ Специализируюсь на Java, C++ и фронтэнд (HTML, CSS, JavaScript <- React JSX).<br>⭐ Опыт работы на Java - 1.5 года.<br>📌 Опыт разработки фронтэнда для сайтов - 6 лет.<br>😯 Люблю обучаться чему-то новому и двигаться вперёд в IT сфере.<br>✏️ Разрабатываю обширную библиотеку LunaSpring вместе с @NovaSparkle
+💫 Разработчик проекта SateSpace (Minecraft).<br>⚡ Специализируюсь на Java, C++ и фронтэнд (HTML, CSS, JavaScript <- React JSX).<br>⭐ Опыт работы на Java - 1.5 года.<br>📌 Опыт разработки фронтэнда для сайтов - 6 лет.<br>😯 Люблю обучаться чему-то новому и двигаться вперёд в IT сфере.<br>✏️ Разрабатываю обширную библиотеку [LunaSpring](https://github.com/NovaSparkle/LunaSpring) вместе с [@NovaSparkle](https://github.com/NovaSparkle)
 
 
 ## 🌐 Ссылки на меня:
